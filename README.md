@@ -78,13 +78,7 @@ timeline
 
 
 
-❗ **STOP here — close the timeline code block.**
 
----
-
-### ✅ 2️⃣ **PASTE YOUR ANALYTICS + CONNECT SECTION HERE**
-
-Right BELOW the timeline, paste this:
 
 ```md
 ## 📈 GitHub Analytics
