@@ -6,73 +6,88 @@
 <h2 align="center">👋 Hey, I’m Naveed</h2>
 
 <p align="center">
-  <b>🚀 AI & Machine Learning Developer | 🤖 Computer Vision & NLP | 🔬 MediaPipe Specialist</b><br>
+  <b>🚀 AI & Machine Learning Developer | 🤖 Computer Vision & NLP | 🔬 Data Science & Analytics </b><br>
   <i>Building intelligent systems using Python & AI</i>
 </p>
 
 ---
 
-# ⚡ About Me  
+## ⚡ About Me  
 
-I am an AI & ML Developer focused on crafting intelligent, efficient, and scalable systems using **Machine Learning, NLP, LLMs, and Computer Vision**.
+I’m an **AI & ML Developer** focused on building intelligent, efficient solutions using  
+**Machine Learning, Deep Learning, NLP, Computer Vision & LLMs.**
 
-- 🤖 Passionate about AI & real-time CV applications  
-- 🔍 Exploring Transformers, LLMs & Generative AI  
-- ⚙️ Strong skills in Python, ML modeling, and Data Analytics  
-- 🛠 Building real-world AI tools using MediaPipe, OpenCV & NLP  
-- 🎯 My goal: Become a world-class **AI Engineer**  
+- 🤖 Passionate about **real-time AI & CV applications**  
+- 🧠 Exploring **Transformers, LLMs & Generative AI**  
+- 🔧 Strong in **Python, ML modeling, NLP, and analytics**  
+- 🎯 Goal: Become a **top-tier AI Engineer** with solid projects & skills  
 
 ---
 
-# 🛠️ Tech Stack (Colorful & Detailed)
+## 🛠 Tech Stack (Icons + Badges)
 
-### 🚀 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,mysql,postgresql&theme=dark" />
+</p>
+
+### 🚀 Core Languages  
 `Python` • `SQL`
 
-### 🤖 AI & Machine Learning  
-`Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch`  
+### 🤖 Machine Learning & Deep Learning  
+`Scikit-Learn` • `Pandas` • `NumPy` • `TensorFlow` • `PyTorch`  
 
 ### 🧿 Computer Vision  
 `MediaPipe` • `OpenCV` • `Image Processing`
 
 ### 🗣 NLP & LLMs  
-`spaCy` • `NLTK` • `HuggingFace` • `Transformers`
+`spaCy` • `NLTK` • `HuggingFace Transformers`
 
-### 📊 Data & Dashboards  
-`Power BI` • `Streamlit`
+### 📊 Data & Analytics  
+`Power BI` • `Streamlit` • `Matplotlib` • `Seaborn`
 
 ### 🗄 Databases  
 `MySQL` • `MongoDB`
 
 ---
 
-# 🎯 Featured AI Projects  
+## 🧩 Skills Snapshot (Badges)
 
-### 🔹 **MediaPipe Computer Vision Suite**
-> Real-time face, pose, hand, and segmentation tools.  
-**Tech:** MediaPipe • OpenCV • Python  
+<p align="center">
 
----
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0B192C?style=for-the-badge&logo=opencv&logoColor=5CFF5C" />
+  <img src="https://img.shields.io/badge/NLP-1F2933?style=for-the-badge&logo=spacy&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFCC4D" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 
-### 🔹 **365 Days of Data Science**
-Daily notebooks documenting DS, ML, NLP & CV learning.  
-**Tech:** Python, Pandas, Matplotlib  
-
----
-
-### 🔹 **IPL Analysis Dashboard**
-Deep EDA, insights, and visualization.  
-**Tech:** NumPy, Pandas, Matplotlib  
+</p>
 
 ---
 
-### 🔹 **ML Projects Collection**
-Regression, classification, clustering, and model evaluation.  
-**Tech:** Scikit-Learn • Pandas • Seaborn  
+## 🧠 AI Journey Timeline  
+
+```mermaid
+timeline
+    title Naveed's AI Journey 🚀
+    2023 : Started Python Fundamentals
+    2024 : Learned Machine Learning & Data Science
+    2024 Q3 : NLP + Computer Vision Projects
+    2024 Q4 : MediaPipe Real-Time Applications
+    2025 : LLMs, Transformers, Generative AI
+    2025 Goal : Become Complete Data Scientist 
+
+
+
+❗ **STOP here — close the timeline code block.**
 
 ---
 
-# 📈 GitHub Analytics  
+### ✅ 2️⃣ **PASTE YOUR ANALYTICS + CONNECT SECTION HERE**
+
+Right BELOW the timeline, paste this:
+
+```md
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveed05&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -85,18 +100,7 @@ Regression, classification, clustering, and model evaluation.
 
 ---
 
-# 🧠 AI Journey Timeline  
-
-```mermaid
-timeline
-    title Naveed's AI Journey 🚀
-    2023 : Started Python Fundamentals
-    2024 : Entered Machine Learning & Data Science
-    2024 Q3 : NLP + Computer Vision • First AI Projects
-    2024 Q4 : MediaPipe Real-Time Applications
-    2025 : LLMs, Generative AI, Transformers
-    2025 Goal : Become full-stack AI Engineer
-# 🤝 Connect With Me  
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -120,13 +124,9 @@ timeline
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Kaggle (optional but professional) -->
-<a href="https://kaggle.com">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
 </p>
+
