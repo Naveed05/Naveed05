@@ -1,7 +1,6 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <!-- Your custom banner will be placed here -->
-  <img src="BANNER_WILL_BE_ADDED_HERE" width="100%" />
+  <img src="/mnt/data/A_digital_graphic_design_banner_features_Mirza_Nav.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Mirza Naveed Baig</h1>
@@ -98,7 +97,7 @@ Multiple Kaggle dataset analyses.
 
 ---
 
-# 🧠 AI Journey Timeline (Unique Section)
+# 🧠 AI Journey Timeline
 
 ```mermaid
 timeline
@@ -109,8 +108,3 @@ timeline
     2024 Q4 : MediaPipe Projects • Real-time CV apps
     2025 : LLMs • Generative AI • Advanced Projects
     2025 (Goal): Become AI Engineer • Build Portfolio Projects
-
-🤝 Connect With Me
-<p align="center"> <a href="mailto:naveedmirza173@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-
-<!-- FOOTER WAVES --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" /> </p> ```
