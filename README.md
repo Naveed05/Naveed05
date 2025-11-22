@@ -61,11 +61,6 @@ I’m an **AI & ML Developer** focused on building intelligent, efficient soluti
   <img src="https://img.shields.io/badge/Data%20Analytics-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 
 </p>
-
----
-
-## 🧠 AI Journey Timeline  
-
 ```mermaid
 timeline
     title Naveed's AI Journey 🚀
@@ -74,53 +69,45 @@ timeline
     2024 Q3 : NLP + Computer Vision Projects
     2024 Q4 : MediaPipe Real-Time Applications
     2025 : LLMs, Transformers, Generative AI
-    2025 Goal : Become Complete Data Scientist 
-
-
-
-
-
+    2025 Goal : Become Complete Data Scientist
 ```md
 ## 📈 GitHub Analytics
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveed05&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> 
+  <img src="https://streak-stats.demolab.com?user=Naveed05&theme=tokyonight&hide_border=true" height="160" /> 
+</p> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveed05&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Naveed05&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed05&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed05&layout=compact&theme=tokyonight&hide_border=true" height="160" /> 
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-
-<p align="center">
+<p align="center"> 
 
 <!-- Email -->
-<a href="mailto:naveedmirza173@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:naveedmirza173@gmail.com"> 
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a> 
 
 <!-- Instagram -->
-<a href="https://instagram.com/naveedmirza05_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://instagram.com/naveedmirza05_"> 
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+</a> 
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/mirza-naveed-baig">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/mirza-naveed-baig"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a> 
 
 <!-- GitHub -->
-<a href="https://github.com/Naveed05">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/Naveed05"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+</a> 
 
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" /> 
 </p>
-
