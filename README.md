@@ -1,90 +1,78 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="/mnt/data/A_digital_graphic_design_banner_features_Mirza_Nav.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Mirza%20Naveed%20Baig&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Mirza Naveed Baig</h1>
-<h3 align="center">🚀 AI & Machine Learning Developer | 🤖 Computer Vision & NLP | 🎯 Python Developer</h3>
-<h4 align="center"><i>Building intelligent systems using Python & AI</i></h4>
+<h2 align="center">👋 Hey, I’m Naveed</h2>
+
+<p align="center">
+  <b>🚀 AI & Machine Learning Developer | 🤖 Computer Vision & NLP | 🔬 MediaPipe Specialist</b><br>
+  <i>Building intelligent systems using Python & AI</i>
+</p>
 
 ---
 
-# ⚡ About Me
+# ⚡ About Me  
 
-<img align="right" src="https://media.giphy.com/media/XB3Roig8eY5Ncdx8cC/giphy.gif" width="260"/>
+I am an AI & ML Developer focused on crafting intelligent, efficient, and scalable systems using **Machine Learning, NLP, LLMs, and Computer Vision**.
 
-I’m an aspiring **AI/ML Engineer** passionate about building systems that learn, see, and understand the world.
-
-- 🤖 **AI Focus:** ML • NLP • Computer Vision • MediaPipe • LLMs  
-- 🔭 Currently building: **AI-powered applications & CV tools**  
-- 💡 Exploring Generative AI, Transformers, and Vector Databases  
-- 📊 Strong in Python, Data Analysis & Model Building  
-- 🌍 Open to collaborations & real-world AI projects  
+- 🤖 Passionate about AI & real-time CV applications  
+- 🔍 Exploring Transformers, LLMs & Generative AI  
+- ⚙️ Strong skills in Python, ML modeling, and Data Analytics  
+- 🛠 Building real-world AI tools using MediaPipe, OpenCV & NLP  
+- 🎯 My goal: Become a world-class **AI Engineer**  
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack (Colorful & Detailed)
 
 ### 🚀 Languages  
-`Python` • `SQL` • `JavaScript`
+`Python` • `SQL`
 
-### 🤖 AI / ML  
-`Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch`
+### 🤖 AI & Machine Learning  
+`Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch`  
 
 ### 🧿 Computer Vision  
 `MediaPipe` • `OpenCV` • `Image Processing`
 
 ### 🗣 NLP & LLMs  
-`spaCy` • `NLTK` • `Transformers`  
+`spaCy` • `NLTK` • `HuggingFace` • `Transformers`
 
-### 🛠 Dashboards / Apps  
-`Streamlit` • `Power BI`
+### 📊 Data & Dashboards  
+`Power BI` • `Streamlit`
 
-### 🗃 Databases  
+### 🗄 Databases  
 `MySQL` • `MongoDB`
 
 ---
 
-# 🎯 Featured Projects
+# 🎯 Featured AI Projects  
 
-### 🔹 **MediaPipe Computer Vision Suite (🔥 Star Project)**
-<img src="https://media.giphy.com/media/SXj2X4ThpSybSY9sim/giphy.gif" width="320" align="right"/>
-
-Face detection, pose tracking, hand recognition, segmentation & more.
-
-**Tech:** MediaPipe, Python, OpenCV  
-👉 *Real-time, accurate & production-ready CV tools*
+### 🔹 **MediaPipe Computer Vision Suite**
+> Real-time face, pose, hand, and segmentation tools.  
+**Tech:** MediaPipe • OpenCV • Python  
 
 ---
 
-### 🔹 **365 Days of Data Science Challenge**
-Daily ML, NLP, and data science learning journey.  
-Documented through notebooks.
-
+### 🔹 **365 Days of Data Science**
+Daily notebooks documenting DS, ML, NLP & CV learning.  
 **Tech:** Python, Pandas, Matplotlib  
 
 ---
 
 ### 🔹 **IPL Analysis Dashboard**
-Exploratory data analysis + visualization.
-
-**Tech:** Python, NumPy, Matplotlib  
-
----
-
-### 🔹 **ML Model Repository**
-Regression, Classification, Clustering, Evaluation Metrics.
-
-**Tech:** Scikit-Learn, Pandas  
+Deep EDA, insights, and visualization.  
+**Tech:** NumPy, Pandas, Matplotlib  
 
 ---
 
-### 🔹 **Pandas Data Science Projects**
-Multiple Kaggle dataset analyses.
+### 🔹 **ML Projects Collection**
+Regression, classification, clustering, and model evaluation.  
+**Tech:** Scikit-Learn • Pandas • Seaborn  
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveed05&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -97,14 +85,48 @@ Multiple Kaggle dataset analyses.
 
 ---
 
-# 🧠 AI Journey Timeline
+# 🧠 AI Journey Timeline  
 
 ```mermaid
 timeline
     title Naveed's AI Journey 🚀
-    2023 : Started BCA • Learned Python Basics
-    2024 : Entered ML & Data Science • Built first models
-    2024 Q3 : NLP + Computer Vision Exploration
-    2024 Q4 : MediaPipe Projects • Real-time CV apps
-    2025 : LLMs • Generative AI • Advanced Projects
-    2025 (Goal): Become AI Engineer • Build Portfolio Projects
+    2023 : Started Python Fundamentals
+    2024 : Entered Machine Learning & Data Science
+    2024 Q3 : NLP + Computer Vision • First AI Projects
+    2024 Q4 : MediaPipe Real-Time Applications
+    2025 : LLMs, Generative AI, Transformers
+    2025 Goal : Become full-stack AI Engineer
+# 🤝 Connect With Me  
+
+<p align="center">
+
+<!-- Email -->
+<a href="mailto:naveedmirza173@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/naveedmirza05_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/mirza-naveed-baig">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/Naveed05">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Kaggle (optional but professional) -->
+<a href="https://kaggle.com">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
+</p>
